@@ -64,3 +64,5 @@ clear
 pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
 git status
 git add -A
+git commit -m 'Worldcup db finished'
+git push
